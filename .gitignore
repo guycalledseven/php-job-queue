@@ -1,0 +1,3 @@
+examples/data/*.sqlite
+examples/data/*shm
+examples/data/*wal
