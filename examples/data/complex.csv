@@ -1,0 +1,7 @@
+﻿msisdn;done;working;state;ok;timestamp;error
+1001;1;0;ok;1;2025-11-09 09:12:03;
+1002;true;no;OK;yes;2025-11-09 09:12:04;temporary failure
+1003;;yes;queued;;2025-11-09 09:12:05;
+1004;false;;error;0;2025-11-09 09:12:06;api timeout
+1005;yes;no;;yes;;network lag
+1006;;;;;;  ; extra spaces
