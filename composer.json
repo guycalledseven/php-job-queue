@@ -1,0 +1,12 @@
+{
+  "name": "guycalledseven/job-queue",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "guycalledseven\\JobQueue\\": "src/JobQueue/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
